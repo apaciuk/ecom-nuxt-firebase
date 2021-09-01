@@ -1,0 +1,100 @@
+[
+  {
+    "name": "admin",
+    "path": "/admin",
+    "component": "/home/anton/Projects/Vue/Ecom/ecom-nuxt-firebase/pages/admin.vue",
+    "chunkName": "pages/admin",
+    "_name": "_55d30bfc"
+  },
+  {
+    "name": "blog-details",
+    "path": "/blog-details",
+    "component": "/home/anton/Projects/Vue/Ecom/ecom-nuxt-firebase/pages/blog-details.vue",
+    "chunkName": "pages/blog-details",
+    "_name": "_d5e14b98"
+  },
+  {
+    "name": "blog-one",
+    "path": "/blog-one",
+    "component": "/home/anton/Projects/Vue/Ecom/ecom-nuxt-firebase/pages/blog-one.vue",
+    "chunkName": "pages/blog-one",
+    "_name": "_9daabd50"
+  },
+  {
+    "name": "cart",
+    "path": "/cart",
+    "component": "/home/anton/Projects/Vue/Ecom/ecom-nuxt-firebase/pages/cart.vue",
+    "chunkName": "pages/cart",
+    "_name": "_17ac3abd"
+  },
+  {
+    "name": "checkout",
+    "path": "/checkout",
+    "component": "/home/anton/Projects/Vue/Ecom/ecom-nuxt-firebase/pages/checkout.vue",
+    "chunkName": "pages/checkout",
+    "_name": "_82b1013a"
+  },
+  {
+    "name": "contact",
+    "path": "/contact",
+    "component": "/home/anton/Projects/Vue/Ecom/ecom-nuxt-firebase/pages/contact.vue",
+    "chunkName": "pages/contact",
+    "_name": "_47c64f93"
+  },
+  {
+    "name": "diction-three",
+    "path": "/diction-three",
+    "component": "/home/anton/Projects/Vue/Ecom/ecom-nuxt-firebase/pages/diction-three.vue",
+    "chunkName": "pages/diction-three",
+    "_name": "_77da6354"
+  },
+  {
+    "name": "diction-two",
+    "path": "/diction-two",
+    "component": "/home/anton/Projects/Vue/Ecom/ecom-nuxt-firebase/pages/diction-two.vue",
+    "chunkName": "pages/diction-two",
+    "_name": "_0efca7f8"
+  },
+  {
+    "name": "gallery-one",
+    "path": "/gallery-one",
+    "component": "/home/anton/Projects/Vue/Ecom/ecom-nuxt-firebase/pages/gallery-one.vue",
+    "chunkName": "pages/gallery-one",
+    "_name": "_27f36c44"
+  },
+  {
+    "name": "login",
+    "path": "/login",
+    "component": "/home/anton/Projects/Vue/Ecom/ecom-nuxt-firebase/pages/login.vue",
+    "chunkName": "pages/login",
+    "_name": "_6d4ec91c"
+  },
+  {
+    "name": "products",
+    "path": "/products",
+    "component": "/home/anton/Projects/Vue/Ecom/ecom-nuxt-firebase/pages/products.vue",
+    "chunkName": "pages/products",
+    "_name": "_b60676fe"
+  },
+  {
+    "name": "signup",
+    "path": "/signup",
+    "component": "/home/anton/Projects/Vue/Ecom/ecom-nuxt-firebase/pages/signup.vue",
+    "chunkName": "pages/signup",
+    "_name": "_ee377116"
+  },
+  {
+    "name": "products-details-id",
+    "path": "/products-details/:id?",
+    "component": "/home/anton/Projects/Vue/Ecom/ecom-nuxt-firebase/pages/products-details/_id.vue",
+    "chunkName": "pages/products-details/_id",
+    "_name": "_47310121"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/home/anton/Projects/Vue/Ecom/ecom-nuxt-firebase/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_b8b1b3f6"
+  }
+]
